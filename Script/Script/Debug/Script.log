@@ -1,0 +1,203 @@
+﻿  main.cpp
+C:\Users\rarno\source\repos\Script\Script\horse_1.h(1,37): error C2601: 'horse_1': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Users\rarno\source\repos\Script\Script\horse_2.h(2,37): error C2601: 'horse_2': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Users\rarno\source\repos\Script\Script\horse_3.h(2,37): error C2601: 'horse_3': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Users\rarno\source\repos\Script\Script\horse.h(7,90): error C2601: 'horse': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(36,89): error C2601: 'acos': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(40,90): error C2601: 'acosh': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(44,89): error C2601: 'asin': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(48,90): error C2601: 'asinh': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(52,89): error C2601: 'atan': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(56,90): error C2601: 'atanh': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(60,106): error C2601: 'atan2': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(64,89): error C2601: 'cbrt': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(68,89): error C2601: 'ceil': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(78,115): error C2601: 'copysign': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(88,88): error C2601: 'cos': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(92,89): error C2601: 'cosh': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(96,88): error C2601: 'erf': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(100,89): error C2601: 'erfc': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(104,88): error C2601: 'exp': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(108,89): error C2601: 'exp2': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(112,90): error C2601: 'expm1': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(116,89): error C2601: 'fabs': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(120,105): error C2601: 'fdim': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(124,90): error C2601: 'floor': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(134,120): error C2601: 'fma': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(138,105): error C2601: 'fmax': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(142,105): error C2601: 'fmin': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(146,105): error C2601: 'fmod': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(150,80): error C2601: 'frexp': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(154,106): error C2601: 'hypot': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(158,88): error C2601: 'ilogb': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(162,104): error C2601: 'ldexp': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(166,91): error C2601: 'lgamma': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(170,95): error C2601: 'llrint': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(174,96): error C2601: 'llround': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(178,88): error C2601: 'log': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(182,90): error C2601: 'log10': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(186,90): error C2601: 'log1p': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(190,89): error C2601: 'log2': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(194,89): error C2601: 'logb': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(198,89): error C2601: 'lrint': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(202,90): error C2601: 'lround': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(206,81): error C2601: 'modf': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(210,94): error C2601: 'nearbyint': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(214,110): error C2601: 'nextafter': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(218,117): error C2601: 'nexttoward': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(222,104): error C2601: 'pow': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(226,110): error C2601: 'remainder': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(230,97): error C2601: 'remquo': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(234,89): error C2601: 'rint': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(238,90): error C2601: 'round': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(248,107): error C2601: 'scalbln': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(252,105): error C2601: 'scalbn': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(256,88): error C2601: 'sin': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(260,89): error C2601: 'sinh': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(264,89): error C2601: 'sqrt': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(268,88): error C2601: 'tan': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(272,89): error C2601: 'tanh': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(276,91): error C2601: 'tgamma': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(280,90): error C2601: 'trunc': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(290,101): error C2601: 'acos': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(294,102): error C2601: 'acosh': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(298,101): error C2601: 'asin': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(302,102): error C2601: 'asinh': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(306,101): error C2601: 'atan': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(310,102): error C2601: 'atanh': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(314,46): error C2601: 'atan2': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(319,101): error C2601: 'cbrt': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(323,101): error C2601: 'ceil': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(333,46): error C2601: 'copysign': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(344,100): error C2601: 'cos': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(348,101): error C2601: 'cosh': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(352,100): error C2601: 'erf': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(356,101): error C2601: 'erfc': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(360,100): error C2601: 'exp': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(364,101): error C2601: 'exp2': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(368,102): error C2601: 'expm1': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(372,101): error C2601: 'fabs': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(376,46): error C2601: 'fdim': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(381,102): error C2601: 'floor': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(391,46): error C2601: 'fma': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(396,46): error C2601: 'fmax': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(401,46): error C2601: 'fmin': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(406,46): error C2601: 'fmod': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(411,92): error C2601: 'frexp': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(415,46): error C2601: 'hypot': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(420,94): error C2601: 'ilogb': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(424,116): error C2601: 'ldexp': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(428,103): error C2601: 'lgamma': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(432,101): error C2601: 'llrint': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(436,102): error C2601: 'llround': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(440,100): error C2601: 'log': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(444,102): error C2601: 'log10': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(448,102): error C2601: 'log1p': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(452,101): error C2601: 'log2': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(456,101): error C2601: 'logb': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(460,95): error C2601: 'lrint': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(464,96): error C2601: 'lround': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(468,99): error C2601: 'modf': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(472,106): error C2601: 'nearbyint': las definiciones de funciones locales no son válidas
+C:\Users\rarno\source\repos\Script\Script\nqueens.h(10): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(476,46): error C2601: 'nextafter': las definiciones de funciones locales no son válidas
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\cmath(477,20): fatal error C1003: el recuento de errores supera 100; se detiene la compilación
