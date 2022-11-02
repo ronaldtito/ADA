@@ -20,12 +20,6 @@ public:
     Point(int _x, int _y) {
         x = _x; y = _y;
     }
-    void setPoint(int _x, int _y) {
-        x = _x; y = _y;
-    }
-    void copyPoint(Point P) {
-        x = P.x; y = P.y;
-    }
 };
 
 class Queen1 {
