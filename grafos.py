@@ -14,6 +14,11 @@ def graph_coord():
     nx.draw_networkx(G,pos) 
     plt.show()
 #child = [n for n in nx.all_neighbors(self.graph,Node_temp['id'])]
+#if Node_temp['id'] not in Route:
+#                Route.append(Node_temp['id'])
+#                child = [n for n in nx.all_neighbors(self.graph,Node_temp['id'])]
+#                for n in child:
+#                    Stack.insert(0,self.graph.nodes[n])
 
 
 def fun():
