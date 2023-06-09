@@ -13,6 +13,7 @@ def graph_coord():
 
     nx.draw_networkx(G,pos) 
     plt.show()
+#child = [n for n in nx.all_neighbors(self.graph,Node_temp['id'])]
 
 
 def fun():
