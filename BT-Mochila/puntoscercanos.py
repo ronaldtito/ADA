@@ -28,6 +28,6 @@ def problema4(Puntos,inicio,fin):
 
 
 puntos = [(2,3),(4,5),(7,2),(3,4),(6,6),(8,1),(3,2),(5,3),(8,5),(7,0),(6,4),(10,10)]
+puntos2 = [(1,1),(3,3),(5,3),(6,1),(6,5),(7,8)]
 puntos = sorted(puntos)
-print(puntos)
-print(problema4(puntos,0,12))
+print(problema4(puntos2,0,6))
