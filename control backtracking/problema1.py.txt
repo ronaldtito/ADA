@@ -1,39 +1,17 @@
 import numpy as np
-   
-def backtracking (p,b,M):
-    n = len(p)
-    nivel = 0
-    s = [-1]*n
-    soa = None
-    voa = -(np.inf)
-    pact = 0
-    bact = 0
-    n -=1
-   
-    while True :
-        #Generar(pact,bact,p,b,nivel,s)
-        s[nivel] = s[nivel] + 1
-        pact = pact + p[nivel]*s[nivel]
-        bact = bact + b[nivel]*s[nivel]
-        if(nivel == n and pact <= M) and (bact > voa):
-            voa = bact
-            soa = list(s)
-        if nivel < n and pact <= M:
-            nivel = nivel + 1
-            
-        else:
-            while True:
-                if nivel < 0 or s[nivel] < 1:
-                    break
-                pact = pact - p[nivel]*s[nivel]
-                bact = bact - b[nivel]*s[nivel]
-                s[nivel] = -1
-                nivel = nivel - 1
-                
-            if nivel < 0:
-                break
-            
-    return soa,voa
+from scipy.optimize import linear_sum_assignment
 
-   
-print(backtracking([1,11,21,23,33],[11,21,31,33,43],61))
+def asignacion_optima_alturas_longitudes(alturas, longitudes):
+    alturas = np.array(alturas)
+    longitudes = np.array(longitudes)
+    matriz_diferencias = np.abs(np.subtract.outer(alturas, longitudes))
+    fila_ind, col_ind = linear_sum_assignment(matriz_diferencias)
+    asignacion_optima = [(alturas[i], longitudes[j]) for i, j in zip(fila_ind, col_ind)]
+    return asignacion_optima
+
+# Ejemplo de aplicación
+alturas = [178, 168, 190, 170]
+longitudes = [183, 188, 168, 175]
+
+asignacion_optima = asignacion_optima_alturas_longitudes(alturas, longitudes)
+print(asignacion_optima)
